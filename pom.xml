@@ -27,7 +27,7 @@
         <dubbo.apache.version>2.7.7</dubbo.apache.version>
         <dubbo.version>2.6.5</dubbo.version>
         <netty.version>4.1.44.Final</netty.version>
-        <spring.version>4.3.16.RELEASE</spring.version>
+        <spring.version>4.3.29.RELEASE</spring.version>
         <dubbo.rpc.version>2.6.3</dubbo.rpc.version>
         <curator.version>4.0.1</curator.version>
         <validation-api.version>1.1.0.Final</validation-api.version>
